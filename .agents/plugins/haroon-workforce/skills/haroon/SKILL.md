@@ -31,7 +31,7 @@ description: Supreme Master AI Boss & Personal Workforce Coordinator. Sits direc
  │   THE BOSS   │       │   RESEARCH   │       │   DESKTOP    │  │COMMUNICATION │
  │   (/boss)    │       │  SPECIALIST  │       │ & BROWSER OP │  │ & WRITING    │
  │ In-House Dev │       │ Deep Search, │       │ Local OS &   │  │ Professional │
- │  25+ Agents  │       │ Synthesis,   │       │ Automation   │  │ Drafting &   │
+ │72 Specialists│       │ Synthesis,   │       │ Automation   │  │ Drafting &   │
  │  Code / TDD  │       │ Fact Storing │       │  Execution   │  │ Review Gate  │
  └──────────────┘       └──────────────┘       └──────────────┘  └──────────────┘
 ```
