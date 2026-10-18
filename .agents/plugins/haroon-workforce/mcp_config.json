@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "haroon": {
+      "command": "node",
+      "args": [
+        "F:/haroon assistant/src/mcp/server.js"
+      ]
+    }
+  }
+}

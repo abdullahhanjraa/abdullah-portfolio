@@ -1,0 +1,22 @@
+{
+  "name": "haroon-workforce",
+  "displayName": "Haroon AI Boss & Workforce OS",
+  "version": "1.0.0",
+  "description": "Founder-Controlled Personal AI Workforce Operating System. Invoked via /haroon to plan, coordinate, execute, and verify tasks with Reality Gate machine proof ($? === 0).",
+  "suggestedPrompts": [
+    "/haroon Run a complete system health check and audit all connected tools",
+    "/haroon Research candidate target companies and prepare an outreach draft",
+    "/haroon Inspect project test suites and certify code quality"
+  ],
+  "author": {
+    "name": "The Boring Company"
+  },
+  "keywords": [
+    "haroon",
+    "ai-boss",
+    "workforce-os",
+    "reality-gate",
+    "orchestration",
+    "task-graph"
+  ]
+}
